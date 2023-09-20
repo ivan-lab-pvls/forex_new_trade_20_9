@@ -35,7 +35,7 @@ class _SplashScreenState extends State<SplashScreen> {
             child: Column(
               children: [
                 Text(
-                  "Stay updated",
+                  "Stay with updates",
                   style: GoogleFonts.dmSans(
                     fontSize: 24,
                     fontWeight: FontWeight.w700,
@@ -44,7 +44,7 @@ class _SplashScreenState extends State<SplashScreen> {
                 ),
                 const SizedBox(height: 6),
                 Text(
-                  "Read news on the news page and stay updated",
+                  "Read our daily news, community",
                   textAlign: TextAlign.center,
                   style: GoogleFonts.dmSans(
                     fontSize: 18,
@@ -78,7 +78,7 @@ class _SplashScreenState extends State<SplashScreen> {
             child: Column(
               children: [
                 Text(
-                  "Analyze",
+                  "Community of traders",
                   style: GoogleFonts.dmSans(
                     fontSize: 24,
                     fontWeight: FontWeight.w700,
@@ -87,7 +87,7 @@ class _SplashScreenState extends State<SplashScreen> {
                 ),
                 const SizedBox(height: 6),
                 Text(
-                  "Analyze trading charts of the forex pairs that are available in the app",
+                  "All news - for you. Check our list of assets",
                   textAlign: TextAlign.center,
                   style: GoogleFonts.dmSans(
                     fontSize: 18,
@@ -121,7 +121,7 @@ class _SplashScreenState extends State<SplashScreen> {
             child: Column(
               children: [
                 Text(
-                  "Settings",
+                  "Welcome",
                   style: GoogleFonts.dmSans(
                     fontSize: 24,
                     fontWeight: FontWeight.w700,
@@ -130,7 +130,7 @@ class _SplashScreenState extends State<SplashScreen> {
                 ),
                 const SizedBox(height: 6),
                 Text(
-                  "Rate the app, read about the app, or set up some settings. All of it you can do on the settings page",
+                  "Rate us, configure app, read news, community, try our quiz game",
                   textAlign: TextAlign.center,
                   style: GoogleFonts.dmSans(
                     fontSize: 18,
@@ -194,7 +194,7 @@ class _SplashScreenState extends State<SplashScreen> {
               label: Row(
                 children: [
                   Text(
-                    "Start",
+                    "Home",
                     style: GoogleFonts.dmSans(
                       fontSize: 18,
                       fontWeight: FontWeight.w500,
@@ -203,7 +203,7 @@ class _SplashScreenState extends State<SplashScreen> {
                   ),
                   const SizedBox(width: 12),
                   const Icon(
-                    Icons.arrow_forward,
+                    Icons.home_filled,
                     color: Colors.white,
                   )
                 ],

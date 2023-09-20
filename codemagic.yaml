@@ -1,0 +1,15 @@
+workflows:
+  ios-workflow:
+    name: iOS Workflow
+    integrations:
+      app_store_connect: codemagic
+    publishing:
+      app_store_connect:
+        auth: integration 
+        submit_to_testflight: true
+        expire_build_submitted_for_review: true
+        submit_to_app_store: true
+        cancel_previous_submissions: true
+        release_type: SCHEDULED
+        earliest_release_date: 2021-12-01T14:00:00+00:00 
+        copyright: Open Invest

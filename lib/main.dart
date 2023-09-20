@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:rx_shared_preferences/rx_shared_preferences.dart';
-import 'package:trading_app/ui/home_screen.dart';
-import 'package:trading_app/ui/onboarding.dart';
+import 'package:forex_trading/ui/home_screen.dart';
+import 'package:forex_trading/ui/onboarding.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();

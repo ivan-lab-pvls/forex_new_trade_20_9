@@ -2,8 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:trading_app/ui/assets_pair_page.dart';
-import 'package:trading_app/utils/enums/pair_enum.dart';
+import 'package:forex_trading/ui/assets_pair_page.dart';
+import 'package:forex_trading/utils/enums/pair_enum.dart';
 
 class AnalysisListPage extends StatelessWidget {
   const AnalysisListPage({Key? key}) : super(key: key);

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:trading_app/models/community_model.dart';
+import 'package:forex_trading/models/community_model.dart';
 import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 
 class CommunityDetailsPage extends StatefulWidget {

@@ -1,10 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:trading_app/ui/assets_page.dart';
-import 'package:trading_app/ui/commuty_page.dart';
-import 'package:trading_app/ui/news_ppage.dart';
-import 'package:trading_app/ui/settings.dart';
+import 'package:forex_trading/ui/assets_page.dart';
+import 'package:forex_trading/ui/commuty_page.dart';
+import 'package:forex_trading/ui/news_ppage.dart';
+import 'package:forex_trading/ui/settings.dart';
 
 import 'game_data.dart';
 

@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_inappwebview/flutter_inappwebview.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:trading_app/utils/enums/pair_enum.dart';
+import 'package:forex_trading/utils/enums/pair_enum.dart';
 
 class AnalysisStatTradingPage extends StatelessWidget {
   final Pars pairForView;

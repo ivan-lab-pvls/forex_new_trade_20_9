@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:trading_app/ui/community_pair_page.dart';
-import 'package:trading_app/utils/constants/community_data.dart';
+import 'package:forex_trading/ui/community_pair_page.dart';
+import 'package:forex_trading/utils/constants/community_data.dart';
 
 final List<String> _watchedVideos = [];
 

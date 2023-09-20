@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:trading_app/models/news_model.dart';
+import 'package:forex_trading/models/news_model.dart';
 
 class NewsDetailsPage extends StatelessWidget {
   final NewsMList news;

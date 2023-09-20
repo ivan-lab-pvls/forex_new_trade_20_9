@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'dart:math';
-import 'package:trading_app/ui/questions.dart';
+import 'package:forex_trading/ui/questions.dart';
 
 class GamePage extends StatefulWidget {
   @override

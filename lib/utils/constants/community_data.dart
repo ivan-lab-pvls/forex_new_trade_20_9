@@ -1,4 +1,4 @@
-import 'package:trading_app/models/community_model.dart';
+import 'package:forex_trading/models/community_model.dart';
 
 class CommunityList {
   static const List<CommunityView> stats = [

@@ -1,4 +1,4 @@
-import 'package:trading_app/models/news_model.dart';
+import 'package:forex_trading/models/news_model.dart';
 
 class NewsList {
   static const List<NewsMList> stats = [
